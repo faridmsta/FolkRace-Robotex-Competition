@@ -2,7 +2,7 @@
 
 Hello everyone! Here is the Folkrace code for Arduino. This code works with the Keyestudio car model, but you can adjust and reuse it for your own robot projects.
 
-![Keyestudio Car Model](https://www.keyestudio.com/products/keyestudio-upgraded-4wd-bt-multi-purpose-smart-car-v20-for-arduino-robot-kit-programming-diy-robot-car)
+![Keyestudio Car Model](https://m.media-amazon.com/images/I/71HGmulkStL.jpg)
 
 ---
 
