@@ -1,4 +1,4 @@
-### Folkrace Code for Robotex Competition
+### Folkrace Code for Keyestudio Car Model (Robotex Competition)
 
 Hello everyone! Here is the Folkrace code for Arduino. This code works with the Keyestudio car model, but you can adjust and reuse it for your own robot projects.
 
